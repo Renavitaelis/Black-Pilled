@@ -121,7 +121,7 @@ int main(void)
 		  HAL_Delay(10);
 	  }
 
-	  //Pisca LED Blue (a cada 1 s):
+	  //Pisca LED Black (a cada 1 s):
 	  HAL_GPIO_TogglePin(GPIOC, LED_Black_Pin);
     /* USER CODE BEGIN 3 */
   }
