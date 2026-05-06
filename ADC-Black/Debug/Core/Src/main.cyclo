@@ -1,0 +1,8 @@
+../Core/Src/main.c:59:10:LePot	1
+../Core/Src/main.c:67:6:ContagemBin	1
+../Core/Src/main.c:73:6:ContagemPercentual	2
+../Core/Src/main.c:88:5:main	2
+../Core/Src/main.c:142:6:SystemClock_Config	3
+../Core/Src/main.c:184:13:MX_ADC1_Init	3
+../Core/Src/main.c:236:13:MX_GPIO_Init	1
+../Core/Src/main.c:291:6:Error_Handler	1
